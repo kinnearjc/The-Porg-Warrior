@@ -1,0 +1,2 @@
+rootProject.name = "The Porg Warrior"
+include ':app'
